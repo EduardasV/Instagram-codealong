@@ -8,7 +8,6 @@
   margin: 0px;
   text-align: center;
   width: 440px;
-  border: 2px solid black;
 }
 .signUpForm{
   display: inline-block;
@@ -28,8 +27,18 @@
   color: #999;
   margin:auto;
   font-weight: bold;
-
 }
 body{
   font-family: sans-serif;
+}
+.button{
+  background: #3897f0;
+  width: 80%;
+  display: inline-block;
+  padding: 8px 8px;
+  color: white;
+  text-decoration: none;
+  margin-top: 10px;
+  font-weight: bold;
+  border-radius: 3px;
 }
