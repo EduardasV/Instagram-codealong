@@ -1,3 +1,20 @@
-body{
+.container{
+  width: 800px;
   background: red;
+  margin: auto;
+  margin-top: 50px;
+}
+.phoneImage{
+  display: inline-block;
+  margin: 0px;
+  height: 200px;
+  width: 450px;
+  background: green;
+}
+.signUpForm{
+  display: inline-block;
+  margin: 0px;
+  height: 200px;
+  width: 346px;
+  background: blue;
 }
